@@ -1,0 +1,7 @@
+package cs1302.utility;
+
+class MyMethods{
+    public static int greater(int a, int b){
+	return (a > b) ? a : b;
+    }
+}
